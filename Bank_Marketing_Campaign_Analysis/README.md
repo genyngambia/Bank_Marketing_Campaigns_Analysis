@@ -30,7 +30,7 @@ Each model was trained and evaluated on the cleaned dataset, and hyperparameter 
 | Decision Tree           | 0.1822         | 1.0000         | 0.8866        |
 | Support Vector Machine  | 12.6516        | 0.9217         | 0.9111        |
 
-![Training Accuracy](https://github.com/genyngambia/Bank_Marketing_Campaigns_Analysis/blob/Bank_Marketing_Campaign_Analysis/Bank_Marketing_Campaign_Analysis/images/training_accuracy.png)
+![Bank Marketing Campaign Accuracy](https://github.com/genyngambia/Bank_Marketing_Campaigns_Analysis/blob/Bank_Marketing_Campaign_Analysis/Bank_Marketing_Campaign_Analysis/images/Bank_Marketing_Campaign_Accuracy.PNG)
 
 
 ### Interpretation of the Findings:
