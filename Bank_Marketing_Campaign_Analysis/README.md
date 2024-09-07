@@ -30,6 +30,9 @@ Each model was trained and evaluated on the cleaned dataset, and hyperparameter 
 | Decision Tree           | 0.1822         | 1.0000         | 0.8866        |
 | Support Vector Machine  | 12.6516        | 0.9217         | 0.9111        |
 
+![Training Accuracy](https://github.com/genyngambia/Bank_Marketing_Campaigns_Analysis/blob/Bank_Marketing_Campaign_Analysis/Bank_Marketing_Campaign_Analysis/images/training_accuracy.png)
+
+
 ### Interpretation of the Findings:
 - **Logistic Regression** and **SVM** are the best-performing models, with strong generalization and consistent accuracy on both training and test data.
 - **SVM** performs excellently but has a significantly longer training time (12.65 seconds), making it the slowest model.
